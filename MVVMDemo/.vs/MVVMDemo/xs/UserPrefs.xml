@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{3D666561-E9A8-45B8-822F-7585BD538B28}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MVVMDemo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4B20712A-9542-4977-97C7-A70AF3EC3CF5" />
+</Properties>
